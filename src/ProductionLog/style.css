@@ -1,0 +1,26 @@
+/*
+Author: Brian Ciszewski
+Last Update: 9/26/19
+
+
+Grabs the fx:id of each GUI element set from the FXML file and adds properties, background colors.
+*/
+
+#TabPane1 {
+  -fx-background-image: url("background.jpg");
+}
+
+#TextField1 {
+  -fx-background-color: "lightyellow";
+}
+
+
+#TextField3 {
+  -fx-background-color: "lightyellow";
+}
+
+
+#TextField5 {
+  -fx-background-color: "lightyellow";
+}
+
